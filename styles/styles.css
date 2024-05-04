@@ -167,6 +167,7 @@
     background-size: cover;
     background-attachment: fixed;
     margin-bottom: 50px;
+    background-position: center;
 }
 .coll__content{
     display: flex;
